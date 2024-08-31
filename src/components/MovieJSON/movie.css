@@ -1,0 +1,36 @@
+.moviedatacontainer img{
+    width: 90px;
+    height: 100px;
+    float: left; 
+    padding: 2px;
+    
+}
+
+.moviedatacontainer
+{
+padding: 10px;
+font-family: 'Mandali', sans-serif;
+font-size: 18px;
+
+
+
+}
+.moviedatacontainer ul li{
+    list-style: none;
+       
+}
+
+.moviedata
+{
+    
+    height: 120px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid rgb(179, 124, 124);
+    
+    
+}
+.moviedata a
+{
+    text-decoration: none;
+}

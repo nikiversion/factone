@@ -1,0 +1,24 @@
+.newmain
+{
+    font-family: 'Mandali', sans-serif;
+    font-size: 18px;
+ text-align: center;
+ padding: 5px;
+}
+.newmain h2{
+    color: red;
+}
+.newmain img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+.newmain span
+{
+    -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
