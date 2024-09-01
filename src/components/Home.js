@@ -1,5 +1,5 @@
 import Info from './information/Info';
-import MoneyNav from './information/MoneyNav';
+
 
 
 
